@@ -1,0 +1,6 @@
+Notion、vscode（学会插件、学会ssh）
+
+1. 有条理的配置Python环境，学会使用conda管理环境，学会使用conda/pip下载库；
+2. 学习pytorch，熟练数据载入、网络搭建、结果整理、训练过程可视化（wonda）；
+3. 学习git、docker；
+4. 科研。
